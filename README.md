@@ -315,11 +315,11 @@ To build impactful software products that solve real-world challenges through sc
 
 📧 Email: **maniboopathy133@gmail.com**
 
-💼 LinkedIn: **https://linkedin.com/in/YOUR_LINKEDIN**
+💼 LinkedIn: **www.linkedin.com/in/boopathy-senior-developer**
 
-🌐 Portfolio: **https://YOUR_PORTFOLIO**
+🌐 Portfolio: **[https://YOUR_PORTFOLIO](https://portfolioboopathy.netlify.app/)**
 
-💻 GitHub: **https://github.com/YOUR_GITHUB_USERNAME**
+💻 GitHub: **[https://github.com/YOUR_GITHUB_USERNAME](https://github.com/Boopathy133/Boopathy133)**
 
 ---
 
@@ -334,11 +334,11 @@ I enjoy working across the entire product lifecycle—from designing user experi
 ```md
 <!-- Add these after creating your GitHub profile -->
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Boopathy133&show_icons=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Boopathy133&layout=compact)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Boopathy133)
 ```
 
 ---
