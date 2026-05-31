@@ -329,20 +329,6 @@ I enjoy working across the entire product lifecycle—from designing user experi
 
 ---
 
-## 📊 GitHub Stats
-
-```md
-<!-- Add these after creating your GitHub profile -->
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Boopathy133&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Boopathy133&layout=compact)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Boopathy133)
-```
-
----
-
 ### ⭐ Motto
 
 > "Building technology that creates impact, simplifies workflows, and delivers meaningful user experiences."
