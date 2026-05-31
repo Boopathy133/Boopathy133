@@ -317,9 +317,9 @@ To build impactful software products that solve real-world challenges through sc
 
 💼 LinkedIn: **www.linkedin.com/in/boopathy-senior-developer**
 
-🌐 Portfolio: **[https://YOUR_PORTFOLIO](https://portfolioboopathy.netlify.app/)**
+🌐 Portfolio: **(https://portfolioboopathy.netlify.app/)**
 
-💻 GitHub: **[https://github.com/YOUR_GITHUB_USERNAME](https://github.com/Boopathy133/Boopathy133)**
+💻 GitHub: **(https://github.com/Boopathy133/Boopathy133)**
 
 ---
 
