@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Boopathy M
 
-### Full Stack Developer | MERN Stack Developer | Product Developer | UI/UX Designer
+### Full Stack Developer | Java Developer | MERN Stack Developer  
 
 I am a passionate Full Stack Developer with hands-on experience in building scalable web applications, designing intuitive user experiences, and developing backend systems that solve real-world problems. My journey combines software engineering, product development, and UI/UX design, enabling me to create complete end-to-end digital solutions.
 
