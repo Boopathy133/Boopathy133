@@ -282,12 +282,8 @@ Text-to-Speech
 
 - Backend Development
 - Full Stack Development
-- Product Engineering
-- Cloud Technologies
-- System Design
 - SaaS Applications
-- UI/UX Design
-- Artificial Intelligence
+- Java Development
 
 ---
 
